@@ -1,1 +1,1 @@
-from .player_ball_assigner import PlayerBallAssigner
+from .speed_and_distance_estimator import SpeedAndDistance_Estimator
