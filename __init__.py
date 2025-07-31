@@ -1,1 +1,1 @@
-from .camera_movement_estimator import CameraMovementEstimator
+from .player_ball_assigner import PlayerBallAssigner
